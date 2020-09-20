@@ -19,8 +19,7 @@ I also firmly believe in mutual growth.
 
 - 💬 Ask me about Python, Data Visualization, Traditional ML Algorithms and Deep Learning.
 
-- 📫 ***How to reach me***: Click below
-[![linkedin](https://github.com/akash22022/Akash-Gupta/blob/master/linkedin.png)](https://www.linkedin.com/in/akash-gupta-2384411b5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/akash22022/Akash-Gupta/blob/master/mail.png)](mailto:akash22.py@gmail.com)
+- 📫 ***Reach me here***:            [![linkedin](https://github.com/akash22022/Akash-Gupta/blob/master/linkedin.png)](https://www.linkedin.com/in/akash-gupta-2384411b5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/akash22022/Akash-Gupta/blob/master/mail.png)](mailto:akash22.py@gmail.com)]
 
 - ⚡ ***Fact:*** I'm from Electronics and Communication branch. 
 
