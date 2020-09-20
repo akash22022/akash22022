@@ -6,14 +6,14 @@
 ### Hi there 👋
 
 I am Akash Gupta. My main interest lies in Machine Learning, Deep Learning and Data Visualization. I also have basic knowledge of NLP . I am always curious to learn something new.
-I also firmly believe in mutual growth.
+I also firmly believe in mutual growth. Actively looking for opportunities and collaboration in projects related to Machine Learning and Deep Learning.
 
 
-- 🔭 I’m currently working on a Machine Learning project.
+- 🔭 I’m currently working on a Recommendation System and Image Classification.(Also working on basics of C++ Programming). 
 
-- 🌱 I’m currently learning **Machine/Deep Learning**.
+- 🌱 I’m currently learning **Machine/Deep Learning** techniques using Tensorflow and Keras.
 
-- 👯 I’m looking to collaborate on any **ML** projectS.
+- 👯 I’m looking for opportunities and collaborate in projects related to Machine Learning and Deep Learning.
 
 - 🤔 I’m looking for help with Deep Learning Projects.
 
