@@ -9,7 +9,7 @@ I am Akash Gupta. My main interest lies in Machine Learning, Deep Learning and D
 I also firmly believe in mutual growth. Actively looking for opportunities and collaboration in projects related to Machine Learning and Deep Learning.
 
 
-- 🔭 I’m currently working on a Recommendation System and Image Classification.(Also working on basics of C++ Programming). 
+- 🔭 I’m currently working on a Recommendation System and Image Classification. 
 
 - 🌱 I’m currently learning **Machine/Deep Learning** techniques using Tensorflow and Keras.
 
