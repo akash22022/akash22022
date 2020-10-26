@@ -21,8 +21,6 @@ I also firmly believe in mutual growth. Actively looking for opportunities and c
 
 - 📫 ***Reach me here***:            [![linkedin](https://github.com/akash22022/Akash-Gupta/blob/master/linkedin.png)](https://www.linkedin.com/in/akash-gupta-2384411b5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/akash22022/Akash-Gupta/blob/master/mail.png)](mailto:akash22.py@gmail.com)
 
-- ⚡ ***Fact:*** I'm from Electronics and Communication branch. 
-
-[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akash22022&show_icons=true&theme=radical)](https://github.com/akash22022/github-readme-stats)
+- ⚡ ***Fact:*** I'm from Electronics and Communication branch.
 
 
