@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am Akash Gupta. My main interest lies in Machine Learning, Deep Learning and Data Visualization. I also have basic knowledge of NLP . I am always curious to learn something new.
+I am Akash Gupta. My main interest lies in Machine Learning, Deep Learning and Data analysis. I also have basic knowledge of NLP . I am always curious to learn something new.
 I also firmly believe in mutual growth. Actively looking for opportunities and collaboration in projects related to Machine Learning and Deep Learning.
 
 
